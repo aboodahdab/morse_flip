@@ -36,7 +36,7 @@ morse_code_alphabet = {
     "7": "--...",
     "8": "---..",
     "9": "----.",
-    " ": "/"   # use "/" to represent a space between words
+  # use "/" to represent a space between words
 }
 
 morse_code_reverse = {
